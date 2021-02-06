@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Home Dashboard UI", "Smart Home Dashboard UI\Smart Home Dashboard UI.csproj", "{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01348F89-0DE9-4C8F-AC8A-F36BC54D1A8F}
+	EndGlobalSection
+EndGlobal

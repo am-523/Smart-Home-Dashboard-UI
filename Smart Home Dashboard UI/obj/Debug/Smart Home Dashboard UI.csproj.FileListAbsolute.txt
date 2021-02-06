@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\bin\Debug\Smart Home Dashboard UI.exe.config
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\bin\Debug\Smart Home Dashboard UI.exe
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\bin\Debug\Smart Home Dashboard UI.pdb
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\obj\Debug\Smart Home Dashboard UI.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\obj\Debug\Smart_Home_Dashboard_UI.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\obj\Debug\Smart_Home_Dashboard_UI.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\obj\Debug\Smart Home Dashboard UI.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\obj\Debug\Smart Home Dashboard UI.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\obj\Debug\Smart Home Dashboard UI.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\obj\Debug\Smart Home Dashboard UI.exe
+D:\AW 17\Source Code Visual Studio 19\Smart Home Dashboard UI\Smart Home Dashboard UI\obj\Debug\Smart Home Dashboard UI.pdb
