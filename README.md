@@ -37,7 +37,7 @@ Smart Home Dashboard UI
 
 
 ## Tutorial 📸
-- <a href="https://youtu.be/46jjNnYQF5E">
+- <a href="https://youtu.be/DW9DJUSuI_s">
 			Youtube
 		</a> 
 
